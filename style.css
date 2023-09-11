@@ -80,14 +80,13 @@ h1 h2 h3 h4 h5 h6 p {
     font-family: "Raleway", sans-serif;
 }
 
-/* .home {
-    background: url(../images/photo-1559521783-1d1599583485.avif) no-repeat top center;
+.home {
+    background: url(/images/photo-1559521783-1d1599583485.jpeg) no-repeat top center;
     background-size: cover;
     position: relative;
     padding-top: 50px;
     background-attachment: fixed;
-} */
-
+}
 .main_home {
     padding: 170px 20px 170px 20px;
     position: relative;
